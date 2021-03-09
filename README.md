@@ -1,4 +1,5 @@
-# IndexeddbApp
+# IndexeddbApp Tutorial
+This is a simple project to demonstrate how to add offline database capabilities using IndexedDB with the NgxIndexedDB package. You can get the full tutorial [here](https://blog.juliusasante.com)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
